@@ -13,3 +13,4 @@ def curve(grades):
 
 curvedGrades = curve(grades)
 print(curvedGrades)
+# [  91.25   54.25   83.25  100.     70.25  100.     93.25   31.25]
